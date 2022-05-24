@@ -5,6 +5,7 @@ Para executar o back-end:
 - Acesse a pasta do back-strapi, abra o terminal.
 - Digite npm(ou yarn) install.
 - Após tudo ser instalado digite npm run develop
+- É necessario acessar o painel do strapi, ir em settings, depois roles na sessão USERS & PERMISSIONS PLUGIN, escolher public e selecionar todos os metodos para  a collection Tarefa.
 
  Nenhuma configuração adicional, como a instalação de um banco de dados é necessária, o banco utilizado para o projeto é o SQlite.
 
