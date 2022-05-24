@@ -1,4 +1,4 @@
-# toDoList
+# To do list
 Instruções para instalação
 
 Para executar o back-end:
